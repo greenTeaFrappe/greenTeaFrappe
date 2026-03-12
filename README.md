@@ -4,7 +4,7 @@
 # KimMinjin's repository
 
 ## Who am I?
-사용자 경험을 고민하는 개발자 김민진입니다.
+사용자 입장에서 고민하는 개발자 김민진입니다.
 
 Android 앱 개발부터 Spring Boot 백엔드까지 폭넓게 경험하고 있으며,
 Gemini API 연동과 Spring WebFlux + LLM 스터디를 통해
@@ -65,4 +65,5 @@ AI를 서비스에 접목하는 역량을 키우고 있습니다.
 
 더 궁금한 점이 있거나 문의 사항이 있으면 연락주세요!
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=fee774&height=200&section=footer)
+
 
